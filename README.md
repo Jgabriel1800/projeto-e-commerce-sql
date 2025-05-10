@@ -59,10 +59,3 @@ No Power BI, foram criados dashboards com as seguintes informações:
 - Conexão bem-sucedida entre Power BI e MySQL.
 - Tratamento de valores nulos (`BLANK()`) e erros de escrita com `TRIM`, `REPLACE`, `COALESCE` etc.
 
----
-
-## 🧪 Como Reproduzir
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
